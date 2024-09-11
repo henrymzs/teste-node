@@ -1,3 +1,5 @@
+const { select } = require('@inquirer/prompts')
+
 // Passo 1: Definir variáveis para o nome e a quantidade de experiência
 let nome = "Capitão"; 
 let experiencia = 9001; 
